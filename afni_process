@@ -1,2 +1,4 @@
 echo "running the afni process"
 echo afni_process --help
+
+echo "beau we need your help!"
