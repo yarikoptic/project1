@@ -1,1 +1,1 @@
-echo afni_process
+echo afni_process --help
