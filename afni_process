@@ -1,1 +1,2 @@
-echo afni_process
+echo "running the afni process"
+echo afni_process --help
